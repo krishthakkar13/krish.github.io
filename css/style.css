@@ -86,7 +86,7 @@ ul li.active a{
 }
 
 .picture11 img{
-	width: 1000px;
+	width: 1200px;
 	height: 700px;
 	position: absolute;
 	top: 50%;
@@ -118,13 +118,22 @@ ul li.active a{
 
 .picture12 img{
 	float: center;
-	width: 400px;
+	width: 320px;
 	height: auto;
 	position: absolute;
-	top: 43%;
-	left: 50%;
+	top: 41%;
+	left: 29%;
 	transform: translate(-50%,-50%);
-	z-index: 3;
+}
+
+.picture14 img{
+	float: center;
+	width: 320px;
+	height: auto;
+	position: absolute;
+	top: 78%;
+	left: 29%;
+	transform: translate(-50%,-50%);
 }
 
 .picture8 img{
@@ -149,20 +158,34 @@ ul li.active a{
 
 .description h1{
 	color: #fff;
-	font-size: 34px;
+	font-size: 30px;
 
 }
 
 .portfoliod1{
 	position: absolute;
-	top: 79%;
-	left: 50%;
+	top: 40%;
+	left: 60%;
 	transform: translate(-50%,-50%);
 }
 
 .portfoliod1 h1{
 	color: #fff;
-	font-size: 30px;
+	font-size: 24px;
 
 }
+
+.portfoliod2{
+	position: absolute;
+	top: 77%;
+	left: 60%;
+	transform: translate(-50%,-50%);
+}
+
+.portfoliod2 h1{
+	color: #fff;
+	font-size: 24px;
+
+}
+
 
